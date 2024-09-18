@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-18T14:07:12 IST" name="Default suite" finished-at="2024-09-18T14:08:57 IST" duration-ms="104928">
+    <groups>
+    </groups>
+    <test started-at="2024-09-18T14:07:12 IST" name="Default test" finished-at="2024-09-18T14:08:57 IST" duration-ms="104928">
+      <class name="com.assignment8.Mvn_JunitWebdriver">
+        <test-method is-config="true" signature="before()[pri:0, instance:com.assignment8.Mvn_JunitWebdriver@6025e1b6]" started-at="2024-09-18T14:07:12 IST" name="before" finished-at="2024-09-18T14:08:34 IST" duration-ms="81800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="test()[pri:0, instance:com.assignment8.Mvn_JunitWebdriver@6025e1b6]" started-at="2024-09-18T14:08:34 IST" name="test" finished-at="2024-09-18T14:08:50 IST" duration-ms="15823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="after()[pri:0, instance:com.assignment8.Mvn_JunitWebdriver@6025e1b6]" started-at="2024-09-18T14:08:50 IST" name="after" finished-at="2024-09-18T14:08:57 IST" duration-ms="6859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.assignment8.Mvn_JunitWebdriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
